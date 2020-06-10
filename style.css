@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-image: url(wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login_box{
+    border-radius: 20px;
+    position: absolute;
+    top: 30%;
+    left: 27%;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px green;
+    height: 210px;
+    width: 300px;
+    overflow: auto;
+}
+/*
+padding: 20px;
+background-color: black;
+    color: red;
+    opacity: 0.5;
+margin-bottom: 20px;
+.login_box_text{
+    text-align: center;
+}
+*/
+.signup_box{
+    border-radius: 20px;
+    position: absolute;
+    top: 30%;
+    left: 53%;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px red;
+    height: 210px;
+    width: 300px;
+    overflow: auto;
+}
+/*
+.chat-box{
+    text-align: center;
+    background-color: black;
+    color: red;
+    box-shadow: 0px 1px 1px #000;
+    height: 250px;
+    margin-bottom: 20px;
+    overflow: auto;
+    padding: 20px;
+}
